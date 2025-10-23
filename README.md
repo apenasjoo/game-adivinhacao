@@ -17,13 +17,6 @@ Este projeto foi desenvolvido com foco em reforçar os seguintes fundamentos:
 
 ---
 
-## 🗂️ Estrutura do Projeto
-
-game-adivinhacao/
-├── index.html # Estrutura principal da página
-├── style.css # Estilos visuais do jogo
-├── script.js # Lógica do jogo (JS puro)
-
 ## 🚀 Como Executar o Projeto
 
 1. **Clone este repositório**
